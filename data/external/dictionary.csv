@@ -3,7 +3,7 @@ carat,Peso do diamante,Quantitativo,Continua
 cut,Qualidade do corte,Qualitativo,Ordinal
 color,Cor do diamante,Qualitativo,Ordinal
 clarity,Medida do quão limpo esta o diamante,Qualitativo,Ordinal
-depht,Porcentagem total de profundidade,Quantitativo,Continua
+depth,Porcentagem total de profundidade,Quantitativo,Continua
 table,Largura do topo do diamante em relação ao ponto mais largo,Quantitativo,Continua
 price,Preco do diamante em dolares,Quantitativo,Continua
 x,Comprimento em mm,Quantitativo,Continua
